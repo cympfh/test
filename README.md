@@ -2,6 +2,6 @@
 
 
 <details>
-<summary>summary</summary>
-details details details details details details...
+<summary>click me</summary>
+Hi!
 </details>
